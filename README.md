@@ -46,7 +46,7 @@
 - C++, C#, Python, Java.  
 
 **Web Development**:  
-- Node.js Express, HTML, CSS, JavaScript, React, TypeScript, Next.js.  
+- Node.js Express, HTML, CSS, JavaScript, React, TypeScript, Next.js, ASP.NET.  
 
 **Databases**:  
 - SQL Server, MySQL, MongoDB.  
