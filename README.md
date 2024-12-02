@@ -35,31 +35,6 @@
 
 ---
 
-### 🛠️ **Technical Skills**
-**Programming Languages**:  
-- C++, C#, Python, Java.  
-
-**Web Development**:  
-- Node.js Express, HTML, CSS, JavaScript, React, TypeScript, Next.js, ASP.NET.  
-
-**Databases**:  
-- SQL Server, MySQL, MongoDB.  
-
-**Tools & Practices**:  
-- Docker, CI/CD, Postman, GitHub, Git, Figma, TDD, Burp Suite.  
-
-**Operating Systems**:  
-- Windows, Linux.  
-
----
-
-### 📚 **Education**
-- **2024**: Advanced Full Stack Web Development Bootcamp (Seminar Machon Lev & Elevation).  
-- **2022 - 2024**: Software Engineering, *Lev Institute* - **95% GPA**.  
-- **2018 - 2022**: High School Diploma with Honors, specializing in programming.  
-
----
-
 ### 📌 **Connect with Me**
 <p align="left">
 <a href="mailto:a0583295187@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
