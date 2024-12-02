@@ -4,12 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Your+Custom+Banner+Here" alt="banner" width="600"/>
-</p>
-
----
-
 ### 🔎 **About Me**
 - 🌟 **Experienced software developer** with a strong background in research and technical problem-solving.  
 - 🚀 **Passionate** about developing scalable, efficient, and impactful solutions.  
