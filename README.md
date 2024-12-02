@@ -1,10 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Avital Walden</h1>
 <h3 align="center">Full-Stack Developer | Passionate about clean code, scalable solutions, and impactful projects</h3>
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/branding-banner.png" alt="banner" width="600"/>
+  <img src="https://via.placeholder.com/600x200.png?text=Your+Custom+Banner+Here" alt="banner" width="600"/>
 </p>
 
 ---
@@ -23,18 +24,18 @@
 ---
 
 ### 💼 **Professional Experience**
-#### 📌 **Final Year Project**: *Chinese Sales System*  
+#### 📌 **Final Year Project**: [*Chinese Sales System*](https://github.com/AvitalWalden/Final-Project-At-React-Node-MySql)  
 - Developed a responsive user interface using **Bootstrap**.  
 - Implemented **user authorization** with roles for admins, registered users, and guests.  
 - Integrated with **Gmail API** for email functionality.  
 - Built using **Node.js, React, JavaScript, HTML, CSS**, and **MySQL**.  
 
-#### 📌 **Bootcamp Project**: *eCommerce Platform*  
+#### 📌 **Bootcamp Project**: [*eCommerce Platform*](https://github.com/eCommerce2580/Project)  
 - Developed an end-to-end solution with **Node.js, Express, MongoDB, Next.js**, and **TypeScript**.  
 - Integrated **PayPal** for secure payments and **Gmail API** for email notifications.  
 - Designed advanced search capabilities and user authentication.
 
-#### 📌 **Task Management System (C# .NET)**  
+#### 📌 **Task Management System (C# .NET)**: [*dotNet Project*](https://github.com/AvitalWalden/dotNet5784_5239_5247)  
 - Built a **layered architecture** using WPF and design patterns.  
 - Managed data efficiently with **XML and LINQ**.  
 
@@ -81,10 +82,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-</p>
-
----
-
-<p align="center">
-  🚀 **"Technology is best when it brings people together."** – Avital Walden
-</p>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> </a>
+</p>  
