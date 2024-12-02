@@ -12,7 +12,7 @@
 ---
 
 ### 🌱 **Current Focus**
-- 🔭 Working on [NerYosefWebsite](https://github.com/michalw100/NerYosefWebsite).  
+- 🔭 Working on [NerYosefWebsite](https://github.com/michalw100/NerYossefWebsite).  
 - 🌱 Deepening my knowledge in **AWS** and cloud technologies.  
 
 ---
